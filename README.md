@@ -10,4 +10,6 @@ Update the project with your information from these sites.
 
 Parameteres in project are set for weateher in Warsaw.
 
-If you want to change it to your city you will need to change lat and lon params in line 
+If you want to change it to your city you will need to change lat and lon params in line #15 and #16. You can check for this information on  https://www.latlong.net/
+
+You can host your project on https://www.pythonanywhere.com/ so the project will work everyday.
